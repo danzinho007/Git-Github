@@ -1,0 +1,51 @@
+-Advance-Wars = OK
+-AICarrinho = Falta ( 2 semanas )
+Não irei mexer com C
+-Alemao-Portugues : Falta = Att
+-Algoritmo = OK
+-AsdaStory : Falta = Att
+Assembly = OK
+-AstralHeroes = Criar
+-AstralMasters = Criar
+-AstralTowers = Criar
+-Brasfoot : Falta = Att
+-BuddyFight : Criar
+-C = Falta ( 2 semanas )
+Pesquisar 
+-C-PlusPlus = Falta ( 2 semanas )
+Pesquisar
+-C-Sharp : Falta
+Pesquisar
+-Cardfight : Criar
+-Cheat Engine = OK
+Cursos = OK
+-Damas : Falta = Att
+-DungeonDefenders : Falta = Att
+-Elsword : Falta = Att
+-Estudos = OK
+-GameDevTycoon : Falta = Att
+-Git-Github = Falta
+-GO = Falta
+-GrandChase : Falta = Att
+-HackRom = OK
+IA = OK
+-Java = Falta
+-Ingles-Portuges : Falta = Att
+-Japones-Portugues : Falta = Att
+JavaScript = OK
+-JogoDaVelha = Falta ( 2 semanas )
+-Lua = Falta
+-Mahjong : Falta = Att
+-Markdown = Falta
+-MySQL = Falta
+-PHP = Falta ( 2 semanas )
+Parei pra focar nos estudos
+-PokemonMysteryDungeon = Falta
+Python = OK
+Rage Racer = OK
+-Scratch = Falta ( 2 semanas )
+Parei pra focar nos estudos
+site = OK
+Super Mario Kart = OK
+-Xadrez : Falta = Att
+-YGOPRO : Falta = Att
