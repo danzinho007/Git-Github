@@ -3,7 +3,7 @@ A
 -AICarrinho = Nao irei mexer com C
 -Alemao-Portugues : OK
 -Algoritmo = OK
--Angelique : Criar
+-Angelique : OK
 -AsdaStory : OK
 -Assembly = OK
 -AstralHeroes = OK
@@ -57,57 +57,57 @@ J
 -Japones-Portugues : Falta = Att
 -JavaScript = OK
 -JogoDaVelha = OK
--Lua = Falta !!!
+-Lua = OK
 
 L
 -Livros = OK
 
 M
--Magic = Criar
--Mahjong : Falta = Att
--Markdown = Falta !!!
--MonsterRancher = Criar 
+-Magic = OK
+-Mahjong : OK
+-Markdown = OK
+-MonsterRancher = OK
 https://vk.com/board74288131
--MySQL = Falta !!!
+-MySQL = OK
 
 N
--NobunagaAmbition = Criar
+-NobunagaAmbition = OK
 
 O
--OmegaQuintet = Falta
+-OmegaQuintet = OK
 
 P
--Pangya = Criar 
+-Pangya = OK 
 -PHP = Parei pra focar nos estudos
--PlantsVsZombies = Criar
+-PlantsVsZombies = OK
 -PokemonConquest = OK
--PokemonHackrom = Criar
--PokemonMysteryDungeon = Falta !!!
--PokemonRumbleBlast = Falta
--PokemonRumbleWord = Falta
--ProjectDiva = Criar
+-PokemonHackrom = OK
+-PokemonMysteryDungeon = OK
+-PokemonRumbleBlast = OK
+-PokemonRumbleWord = OK
+-ProjectDiva = OK
 -Python = OK
 
 R
 -Rage Racer = OK
--RecettearAnItemShopsTale = Criar
+-RecettearAnItemShopsTale = OK
 -RPG-Maker : OK
 
 S
 -Scratch = Parei pra focar nos estudos
--SidePocket = Falta
+-SidePocket = OK
 -site = OK
--Spectromancer = Criar
+-Spectromancer = OK
 -Super Mario Kart = OK
 
 T
--TaikoNoTatsujin = Falta
--Terraria = Geral 
--Terraria3Ds = Falta
--TerrariaPC = Falta
--Torchlight = 
+-TaikoNoTatsujin = OK
+-Terraria = OK 
+-Terraria3Ds = OK
+-TerrariaPC = OK
+-Torchlight = OK
 
 X
--Xadrez : Falta = Att
--YGOPRO : Falta = Att
+-Xadrez : OK
+-YGOPRO : OK
 -YuGiOHForbiddenMemories = OK
