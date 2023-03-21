@@ -1,51 +1,113 @@
+A
 -Advance-Wars = OK
--AICarrinho = Falta ( 2 semanas )
-Não irei mexer com C
--Alemao-Portugues : Falta = Att
+-AICarrinho = Nao irei mexer com C
+-Alemao-Portugues : OK
 -Algoritmo = OK
--AsdaStory : Falta = Att
-Assembly = OK
--AstralHeroes = Criar
--AstralMasters = Criar
--AstralTowers = Criar
--Brasfoot : Falta = Att
--BuddyFight : Criar
--C = Falta ( 2 semanas )
-Pesquisar 
--C-PlusPlus = Falta ( 2 semanas )
-Pesquisar
--C-Sharp : Falta
-Pesquisar
--Cardfight : Criar
+-Angelique : Criar
+-AsdaStory : OK
+-Assembly = OK
+-AstralHeroes = OK
+-AstralMasters = OK
+-AstralTowers = OK
+
+B
+-Brasfoot : OK
+-Breath of Fire = OK
+-BuddyFight : OK
+
+C
+-C = Nao irei mexer com C 
+-C-PlusPlus = Nao irei mexer com C++
+-C-Sharp : Nao irei mexer com C#
+-Cardfight : OK
 -Cheat Engine = OK
-Cursos = OK
--Damas : Falta = Att
--DungeonDefenders : Falta = Att
--Elsword : Falta = Att
--Estudos = OK
--GameDevTycoon : Falta = Att
--Git-Github = Falta
--GO = Falta
--GrandChase : Falta = Att
+-Cursos = OK
+
+D
+-Damas = OK
+-Diablo 3 = OK
+-DungeonDefenders = OK
+
+E
+-EiyuSenkiGold = OK
+-Elsword = OK
+-ElsZero : OK 
+-Estudos : OK
+
+F
+-Flyff = OK
+
+G
+-GameDevTycoon = OK
+-Git-Github = OK
+-GO = OK
+-Gran Turismo = OK
+-GrandChase = OK
+
+H
 -HackRom = OK
-IA = OK
--Java = Falta
--Ingles-Portuges : Falta = Att
+-HorizonChaseTurbo = OK
+
+I
+-IA = OK
+-Ingles-Portuges = OK
+
+J
+-Java = Parei pra focar nos estudos
 -Japones-Portugues : Falta = Att
-JavaScript = OK
--JogoDaVelha = Falta ( 2 semanas )
--Lua = Falta
+-JavaScript = OK
+-JogoDaVelha = OK
+-Lua = Falta !!!
+
+L
+-Livros = OK
+
+M
+-Magic = Criar
 -Mahjong : Falta = Att
--Markdown = Falta
--MySQL = Falta
--PHP = Falta ( 2 semanas )
-Parei pra focar nos estudos
--PokemonMysteryDungeon = Falta
-Python = OK
-Rage Racer = OK
--Scratch = Falta ( 2 semanas )
-Parei pra focar nos estudos
-site = OK
-Super Mario Kart = OK
+-Markdown = Falta !!!
+-MonsterRancher = Criar 
+https://vk.com/board74288131
+-MySQL = Falta !!!
+
+N
+-NobunagaAmbition = Criar
+
+O
+-OmegaQuintet = Falta
+
+P
+-Pangya = Criar 
+-PHP = Parei pra focar nos estudos
+-PlantsVsZombies = Criar
+-PokemonConquest = OK
+-PokemonHackrom = Criar
+-PokemonMysteryDungeon = Falta !!!
+-PokemonRumbleBlast = Falta
+-PokemonRumbleWord = Falta
+-ProjectDiva = Criar
+-Python = OK
+
+R
+-Rage Racer = OK
+-RecettearAnItemShopsTale = Criar
+-RPG-Maker : OK
+
+S
+-Scratch = Parei pra focar nos estudos
+-SidePocket = Falta
+-site = OK
+-Spectromancer = Criar
+-Super Mario Kart = OK
+
+T
+-TaikoNoTatsujin = Falta
+-Terraria = Geral 
+-Terraria3Ds = Falta
+-TerrariaPC = Falta
+-Torchlight = 
+
+X
 -Xadrez : Falta = Att
 -YGOPRO : Falta = Att
+-YuGiOHForbiddenMemories = OK
