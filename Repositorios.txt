@@ -8,6 +8,7 @@ A
 -Assembly = OK
 -AstralHeroes = OK
 -AstralMasters = OK
+-AtralTournament = 
 -AstralTowers = OK
 
 B
@@ -26,6 +27,7 @@ C
 D
 -Damas = OK
 -Diablo 3 = OK
+-Driver 2 = 
 -DungeonDefenders = OK
 
 E
@@ -35,17 +37,19 @@ E
 -Estudos : OK
 
 F
+-Final Fantasy = 
 -Flyff = OK
 
 G
 -GameDevTycoon = OK
 -Git-Github = OK
 -GO = OK
--Gran Turismo = OK
+-GranTurismo = OK
 -GrandChase = OK
 
 H
 -HackRom = OK
+-Hearthstone = 
 -HorizonChaseTurbo = OK
 
 I
@@ -71,6 +75,9 @@ https://vk.com/board74288131
 -MySQL = OK
 
 N
+-NationEmpire = 
+-Nintendo64 = 
+-NintendoDS = 
 -NobunagaAmbition = OK
 
 O
@@ -85,6 +92,7 @@ P
 -PokemonMysteryDungeon = OK
 -PokemonRumbleBlast = OK
 -PokemonRumbleWord = OK
+-PokemonTCG = 
 -ProjectDiva = OK
 -Python = OK
 
@@ -98,7 +106,8 @@ S
 -SidePocket = OK
 -site = OK
 -Spectromancer = OK
--Super Mario Kart = OK
+-SuperMarioKart = OK
+-SuperNintendo
 
 T
 -TaikoNoTatsujin = OK
@@ -110,4 +119,6 @@ T
 X
 -Xadrez : OK
 -YGOPRO : OK
+-YuGiOh = 
+-YuGiOhTagForce = 
 -YuGiOHForbiddenMemories = OK
