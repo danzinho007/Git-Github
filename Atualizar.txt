@@ -11,25 +11,39 @@ Falta :
 Atualizar :
 
 Site = Final de semana
+Advance-Wars / SerieWars : OK 
+AICarrinho = 
 Alemao-Portugues = Falta 
 Angelique = 3 dias
-AsdaStory = 3 dias
+API = 
+AsdaStory = OK
+Assembly = 
 AstralHeroes = Final de Semana
 AstralMasters = Final de Semana
 AstralTowers =  Final de Semana
+
 Biologia = 2 dias 
 Blackthorne = Final de Semana
 Brasfoot = 3 dias
 BreathOfFire = Final de Semana
 Buddyfight = Final de Semana
+
+C = 
+C-PlusPlus / C++ = 
+C-Sharp = 
 Cardfight = Final de Semana
+Carros = 
 CheatEngine =
+cursoemvideo-http = 
 Cursos = OK
+
 Damas = Pesquisar
 Diablo3 = OK
+
 Elsword = Atualizar !!!
 ElsZero = OK
 Estudos = Atualizar
+
 GameDevTyCoon = Final de Semana
 Git-Github = Atualizar !!!
 GO = Pesquisar
@@ -43,6 +57,7 @@ Mahjong = Pesquisar
 Markdown = Pesquisar
 MonsterRancher = Final de Semana
 MySQL = Estudar
+
 OmegaQuintet = Pesquisar
 osu = Pesquisar
 PokemonMysteryDungeon = Final de Semana
@@ -51,12 +66,17 @@ PokemonRumbleWorld = Pesquisar !!!
 Populous = Pesquisar
 Portugues = Atualizar !!!
 ProjectDiva = Pesquisar
+
 RageRacer = Final de Semana
 RPGMaker = Final de Semana 
+
 SidePocket = Final de Semana
+Spectromancer = OK
 SuperMarioKart = Final de Semana
+SyphonFilter = 3 dias
 TaikoNoTatsuujin = Pesquisar
 Torchlight = Final de Semana
+Yu-Gi-Oh = 3 dias
 
 Parei de atualizar :
 
