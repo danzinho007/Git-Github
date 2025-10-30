@@ -1,90 +1,72 @@
-﻿Rotina :
+﻿Criar:
+Angular
+Jogos
+YGO_WC2010
+YGO_WC2011
 
-Segunda : Algoritmo  + HTMLCSS
-Terça : MySQL + Inteligência Artificial
-Quarta : JavaScript  + HTML 
-Quinta : Python
-Sexta : Lua 
-
-Falta :
-
-Atualizar :
-
-Site = Final de semana
-Advance-Wars / SerieWars : OK 
-AICarrinho = 
-Alemao-Portugues = Falta 
-Angelique = 3 dias
-API = 
-AsdaStory = OK
-Assembly = 
-AstralHeroes = Final de Semana
-AstralMasters = Final de Semana
-AstralTowers =  Final de Semana
-
-Biologia = 2 dias 
-Blackthorne = Final de Semana
-Brasfoot = 3 dias
-BreathOfFire = Final de Semana
-Buddyfight = Final de Semana
-
-C = 
-C-PlusPlus / C++ = 
-C-Sharp = 
-Cardfight = Final de Semana
-Carros = 
-CheatEngine =
-cursoemvideo-http = 
-Cursos = OK
-
-Damas = Pesquisar
-Diablo3 = OK
-
-Elsword = Atualizar !!!
-ElsZero = OK
-Estudos = Atualizar
-
-GameDevTyCoon = Final de Semana
-Git-Github = Atualizar !!!
-GO = Pesquisar
-HackRom = 
-HorizonChaseTurbo = Pesquisar
-Ingles-Portugues = Final de Semana
-INSS = Pesquisar
-Japones-Portugues = Pesquisar
-JogoDaVelha = Pesquisar
-Mahjong = Pesquisar
-Markdown = Pesquisar
-MonsterRancher = Final de Semana
-MySQL = Estudar
-
-OmegaQuintet = Pesquisar
-osu = Pesquisar
-PokemonMysteryDungeon = Final de Semana
-PokemonRumbleBlast = Pesquisar
-PokemonRumbleWorld = Pesquisar !!!
-Populous = Pesquisar
-Portugues = Atualizar !!!
-ProjectDiva = Pesquisar
-
-RageRacer = Final de Semana
-RPGMaker = Final de Semana 
-
-SidePocket = Final de Semana
-Spectromancer = OK
-SuperMarioKart = Final de Semana
-SyphonFilter = 3 dias
-TaikoNoTatsuujin = Pesquisar
-Torchlight = Final de Semana
-Yu-Gi-Oh = 3 dias
-
-Parei de atualizar :
-
-AICarrinho
-Assembly
-C
-C-PlusPlus / C++
-C-Sharp / C#
-Java
-PHP
-Scratch
+Atualizar:
+MeuSite
+Ancestors = (21)
+ElsZero = (22)
+EstadosBrasileiros = OK_ 1 Remover
+FinalFantasy = (23)
+ForgeOfEmpires = OK_OK (13) Não estou jogando mais
+GameBoyAdvance = (24)
+GameBoyColor = (25)
+GameGear = (26)
+GameOfThrones = OK_OK (14)
+Git-Github = (27)
+Godscript1 = OK(?)_ 2
+Granbo = OK_3
+GrandChaseMobile = (28)
+GranTurismo4 = (29)
+Hearthstone = (30)
+HyperDimensionNeptunia = OK_OK (15)
+InteligênciaArtificial = OK_OK (16)
+Investimento = OK_ 
+LiarGame = OK_OK (17)
+LivroJogo = OK_OK (1)
+Luna = OK_OK (18)
+Lunia = 
+Magic = OK_OK (2)
+MapasMentais = OK_ 
+MapleStory3Ds = OK_OK (3)
+MasterSystem = OK_OK (4)
+Matematica = 
+Medabots = OK_ 6 (19)
+MegaDrive = 
+Memes = OK_OK (5)
+Mickey = OK_OK (20)
+Minecraft = OK_OK (6)
+MonsterRancher = OK_OK (7)
+Mythoria = OK_OK (8)
+NationEmpire = 
+NeoGeo = 
+Onigiri = 
+PachiPara = OK_ 8
+Pangya = 
+Photoshop = OK_ 9
+PlanetEvolution = OK_ 10
+PlantsVSZombies = 
+PokemonImagens = Deletado
+PokemonRumbleBlast = OK_ 11
+PokemonRumbleWorld = OK 12
+Portugues = 
+PSP ] 
+Recettear = OK_OK (9)
+Revistas = OK_
+RomHack = 
+SecretOfTheStars = OK_
+ShadowWar = 
+ShowDoMilhao = OK_
+Sokoban = OK_OK (10)
+StardewValley = OK_
+SuperMarioKart = OK_ 
+SyphonFilter = 
+Terraria = OK_
+Terraria3Ds = OK_ 
+TerrariaPC = OK_OK (11)
+WildArms = OK_ 
+WinningPost = OK_ 
+YGOPRO = OK_OK (12)
+YoukaiWatch = OK_ 
