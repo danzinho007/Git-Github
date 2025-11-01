@@ -1,72 +1,103 @@
-﻿Criar:
-Angular
-Jogos
-YGO_WC2010
-YGO_WC2011
+Atualizar :
 
-Atualizar:
-MeuSite
-Ancestors = (21)
-ElsZero = (22)
-EstadosBrasileiros = OK_ 1 Remover
-FinalFantasy = (23)
-ForgeOfEmpires = OK_OK (13) Não estou jogando mais
-GameBoyAdvance = (24)
-GameBoyColor = (25)
-GameGear = (26)
-GameOfThrones = OK_OK (14)
-Git-Github = (27)
-Godscript1 = OK(?)_ 2
-Granbo = OK_3
-GrandChaseMobile = (28)
-GranTurismo4 = (29)
-Hearthstone = (30)
-HyperDimensionNeptunia = OK_OK (15)
-InteligênciaArtificial = OK_OK (16)
-Investimento = OK_ 
-LiarGame = OK_OK (17)
-LivroJogo = OK_OK (1)
-Luna = OK_OK (18)
-Lunia = 
-Magic = OK_OK (2)
-MapasMentais = OK_ 
-MapleStory3Ds = OK_OK (3)
-MasterSystem = OK_OK (4)
-Matematica = 
-Medabots = OK_ 6 (19)
-MegaDrive = 
-Memes = OK_OK (5)
-Mickey = OK_OK (20)
-Minecraft = OK_OK (6)
-MonsterRancher = OK_OK (7)
-Mythoria = OK_OK (8)
-NationEmpire = 
-NeoGeo = 
-Onigiri = 
-PachiPara = OK_ 8
-Pangya = 
-Photoshop = OK_ 9
-PlanetEvolution = OK_ 10
-PlantsVSZombies = 
-PokemonImagens = Deletado
-PokemonRumbleBlast = OK_ 11
-PokemonRumbleWorld = OK 12
-Portugues = 
-PSP ] 
-Recettear = OK_OK (9)
-Revistas = OK_
-RomHack = 
-SecretOfTheStars = OK_
-ShadowWar = 
-ShowDoMilhao = OK_
-Sokoban = OK_OK (10)
-StardewValley = OK_
-SuperMarioKart = OK_ 
-SyphonFilter = 
-Terraria = OK_
-Terraria3Ds = OK_ 
-TerrariaPC = OK_OK (11)
-WildArms = OK_ 
-WinningPost = OK_ 
-YGOPRO = OK_OK (12)
-YoukaiWatch = OK_ 
+Dias = 1,2,3,4,5,6,7
+
+0-MeuSite
+1-BangDream
+2-CardfightAnime
+3-CardfightCartas
+4-CardfightJogos
+5-CardfightPersonagens
+6-CardfightVanguard
+7-Casa
+8-Celular
+9-Curiosidades
+10-Dandadan
+
+11-Doramas
+12-Eletrônica
+13-Estudos
+14-FilmesSeriesAnimes
+15-Física
+16-FutureCardBuddyfight
+17-GO
+18-Godscript1
+19-HackRom
+20-HTML1
+
+21-InglesPortugues
+22-INSS
+23-Investimento
+24-JavaScript
+25-JogoDaVelha
+26-Linguagens
+27-Livros
+28-Lua
+29-Mahjong
+30-MapasMentais
+
+31-MapleStory
+32-Markdown
+33-MarketingDigital
+34-Matemática
+35-MegaDrive
+36-MySQL
+37-NaipesFascinante
+38-NeoGeo
+39-NintendoDS
+40-PachiPara
+
+41-Photoshop
+42-PHP
+43-PlayStation2
+44-Pokemon
+45-PokemonCompetitivo
+46-PokemonConquest
+47-PokemonGeracao
+48-PokemonHackrom
+49-PokemonHack_01
+50-Populous
+
+51-Portuges
+52-Programação
+53-ProjetoGit
+54-Projetos
+55-PSP
+56-PSP_Play
+57-Química
+58-RetroArch = Remover
+59-RPG Maker
+60-Scratch
+
+61-SecretOfTheStars
+62-SerieWars
+63-ShadowWar
+64-ShowDoMilhao
+65-SidePocket
+66-SoloLeveling
+67-Spectromancer
+68-Stardew Valley
+69-Syphon_Filter
+70-TaikoNoTatsujin
+
+2025 Junho :
+Aerobitz
+AlchemicDungeon3Ds
+ArabePortugues
+ArabianNights
+Atari2600
+AtariLyn
+C++
+
+2025 Outubro
+AlemaoPortugues
+Algoritmo
+Ancestors
+Angular
+Animes
+API
+AsdaStory
+Assembly
+Assembly6502
+Atalhos
+Beecrowd

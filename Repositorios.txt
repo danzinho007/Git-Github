@@ -1,31 +1,79 @@
+Criar:
+CaixaEconomica = 
+Curiosidades = 
+Idiomas = 
+Jogos = Criado
+Saw = 
+YGO_WC2010 = Criado
+YGO_WC2011 = Criado
+
+Numeros
+7thSaga = Renomeado pra The7thSaga
+
 A
 -Advance-Wars = OK
+01-Aerobitz = Junho2025
 -AICarrinho = Nao irei mexer com C
--Alemao-Portugues : OK
--Algoritmo = OK
--Angelique : OK
--AsdaStory : OK
--Assembly = OK
--AstralHeroes = OK
--AstralMasters = OK
--AtralTournament = 
--AstralTowers = OK
+02-AlchemicDungeon3Ds = Junho2025
+03-AlemaoPortugues : Maio2025 > Outubro2025
+04-Algoritmo = Abril2025 > Outubro2025
+05-Ancestors = Outubro2025
+06-AncientMagic = 
+07-Angelique : Janeiro2025 > 
+08-Angular = Outubro2025
+09-Animes = Abril2025 > Outubro2025
+10-API = Março2025 > Outubro2025
+11-ArabePortugues = Junho2025
+12-ArabianNights = Junho2025
+13-AsdaStory : Janeiro2025 > Outubro2025
+14-Assembly = Outubro2025 > 
+15-Assembly6502 = Outubro2025
+16-AstralHeroes = Janeiro2025 > 
+17-AstralMasters = Janeiro2025 >
+18-AtralTournament = Janeiro2025 >
+19-AstralTowers = Janeiro2025 > 
+20-Atalhos = Outubro2025
+21-Atari2600 = Junho2025
+22-AtariLyn = Junho2025
 
 B
--Brasfoot : OK
--Breath of Fire = OK
--BuddyFight : OK
+23-BangDream = Março2025
+24-BasesNumericas = Maio2025
+25-Beecrowd = Maio2025 > Outubro2025
+26-Biologia = Maio2025 > 
+27-Blackthorne = Maio2025
+28-BrainAge3Ds = Maio2025 > Outubro2025
+29-Brasfoot : Maio2025
+30-Breath of Fire = Maio2025 > 
+31-BuddyFight = Outubro2025
 
 C
--C = Nao irei mexer com C 
--C-PlusPlus = Nao irei mexer com C++
--C-Sharp : Nao irei mexer com C#
--Cardfight : OK
--Cheat Engine = OK
--Cursos = OK
+32-C = Outubro2025 
+34-C-PlusPlus = Junho2025
+35-C-Sharp = Outubro2025
+36-CaptainTsubasa = Outubro2025
+37-CardfightAnime = Maio2025 > Novembro2025
+38-CardfightCartas = Março2025 > Novembro2025
+39-CardfightClan = 
+40-CardfightJogos = Novembro2025
+41-CardfightVanguard = Novembro2025
+42-CardGuardian = 
+43-CarmenSanDiego
+44-Carros =
+45-Casa = 
+46-Celular = Novembro2025
+47-Cheat Engine = OK
+48-ChinesPortugues = 
+49-Cibersegurança = 
+50-CodyCross = 
+51-CoreanoPortugues = 
+52-Curiosidades = Novembro2025
+53-CursoDeWord = 
+54-Cursos = OK
 
 D
--Damas = OK
+55-Damas = OK
+56-Dandadan = Novembro2025
 -Diablo 3 = OK
 -Driver 2 = 
 -DungeonDefenders = OK
@@ -34,18 +82,29 @@ E
 -EiyuSenkiGold = OK
 -Elsword = OK
 -ElsZero : OK 
+-EstadosBrasileiros = Remover
 -Estudos : OK
 
 F
 -Final Fantasy = 
 -Flyff = OK
+-ForgeOfEmpires = 
 
 G
+-GameBoy = 
+-GameBoyAdvance = 
+-GameBoyColor = 
 -GameDevTycoon = OK
+-GameGear = 
+-GameOfThrones = 
 -Git-Github = OK
 -GO = OK
+-Godscript1 = 29/03/2024 > ???
+-Granbo = 10/04/2024 > ???
 -GranTurismo = OK
 -GrandChase = OK
+-GrandChaseMobile = 
+-GranTurismo4 = 
 
 H
 -HackRom = OK
@@ -55,6 +114,7 @@ H
 I
 -IA = OK
 -Ingles-Portuges = OK
+-Investimento = 11/09/2024 > ???
 
 J
 -Java = Parei pra focar nos estudos
@@ -84,14 +144,17 @@ O
 -OmegaQuintet = OK
 
 P
+-PachiPara = 26/02/2024 > ???
 -Pangya = OK 
+-Photoshop = 29/03/2024 > ???
 -PHP = Parei pra focar nos estudos
+-PlanetEvolution = 29/03/2024 > ???
 -PlantsVsZombies = OK
 -PokemonConquest = OK
 -PokemonHackrom = OK
 -PokemonMysteryDungeon = OK
--PokemonRumbleBlast = OK
--PokemonRumbleWord = OK
+-PokemonRumbleBlast = 28/02/2024 > 
+-PokemonRumbleWord = 18/02/2024 >
 -PokemonTCG = 
 -ProjectDiva = OK
 -Python = OK
@@ -99,26 +162,28 @@ P
 R
 -Rage Racer = OK
 -RecettearAnItemShopsTale = OK
+-Revistas = 10/04/2024 > ???
 -RPG-Maker : OK
 
 S
 -Scratch = Parei pra focar nos estudos
 -SidePocket = OK
 -site = OK
--Spectromancer = OK
--SuperMarioKart = OK
+-Spectromancer = 
+-SuperMarioKart = 14/12/2024 > 31/10/2025
 -SuperNintendo
 
 T
 -TaikoNoTatsujin = OK
--Terraria = OK 
--Terraria3Ds = OK
+-Terraria = 20/03/2024 > ???
+-Terraria3Ds = 20/03/2024 > 31/10/2025
 -TerrariaPC = OK
 -Torchlight = OK
 
 X
 -Xadrez : OK
 -YGOPRO : OK
+-YoukaiWatch = 10/05/2024 > 31/10/2025
 -YuGiOh = 
 -YuGiOhTagForce = 
 -YuGiOHForbiddenMemories = OK
