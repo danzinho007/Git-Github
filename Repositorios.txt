@@ -1,19 +1,251 @@
+Jogar 
+PS1 - Angelique = OK
+PS1 - Driver 2 = OK
+SNES - Aerobitz = OK
+SNES - AncientMagic = OK Pesquisar
+SNES - ArabianNights = Ok Pesquisar
+SNES - Blackthorne = OK Pesquisar
+SNES - BreathOfFire = OK Pesquisar
+CardGuardians = OK
+CodyCross = ?
+DualMasters = Ok
+DungeonDefenders = Ok
+EatVenture = Ok
+
+Estudar 
+ArabePortugues = Ok
+Assembly6502 = OK
+C = Ok
+C++ = OK
+C-Sharp = Dia 13
+Carros = OK
+CheatEngine = Ok
+97-ChinesPortugues = Ok
+98-Cibersegurança
+99-CodyCross
+100-CoreanoPortugues = OK
+CursoDeWord
+Duolingo
+
+Pesquisar
+BangDream = OK
+Brasfoot = ?
+CaixaEconomica = ?
+Casa = ?
+
+Ver Vídeo
+Atari2600 = ?
+AtariLyn = ?
+
 Criar:
-CaixaEconomica = 
-Curiosidades = 
-Idiomas = 
-Jogos = Criado
-Saw = 
-YGO_WC2010 = Criado
-YGO_WC2011 = Criado
+Baseball = OK
+YGO_Eternal = OK
+YGO_Legacy = OK
+YGO_LegacyLink = 
+YGO_Nightmare = 
+YGO_Reshef = 
+YGO_Sacred = 
+YGO_TagForce1 = OK
+YGO_TagForce2 = OK
+YGO_TagForce3 = OK
+YGO_TagForce4 = OK
+YGO_TagForce5
+YGO_TagForce6
+YGO_TagForceS
+YGO_WC2004
+YGO_WC2005
+YGO_WC2006Battle
+YGO_WC2007
+YGO_WC2009
+YGO_WC2011Revival
+YGO_World =
+YGOGX_Duel = 
+YGOGX_Spirit = 
+YGOZexal_Carnival = 
+Verificar:
+https://github.com/danzinho007?language=&page=8&q=&sort=&tab=repositories
 
-Numeros
-7thSaga = Renomeado pra The7thSaga
+Pastas
+Manhwa
+PlayStation1
+Ranma
+Stella View
+YGO 2006
 
-A
--Advance-Wars = OK
+Atualizar:
+Dia 09/11/2025 = 20 pastasAtualizadas
+... 10/11/2025 = 21 até 40 ...
+... 11/11/2025 = 41 até 60 ...
+... 12/11/2025 Quarta-Feira = 61 ao 80 ...
+... 13/11/2025 Quinta-Feira = 81 ao 100
+... 14/11/2025 Sexta-Feira = 101 ao 120
+
+81Aerobitz = OK
+82-AlchemicDungeon3Ds = OK
+83-AncientMagic = OK
+84-ArabePortugues = OK
+85-ArabianNights = OK
+86-Atari2600 = OK
+87-AtariLyn = OK
+88-BangDream = OK
+89-Blackthorne = OK
+90-Brasfoot = OK
+91-BreathOfFire = OK
+92-C-PlusPlus = OK
+93-CaixaEconomica = OK
+94-CardGuardians = OK
+95-CarmenSanDiego = OK
+96-Carros = OK
+97-Casa 
+98-ChinesPortugues
+99-Cibersegurança
+100-CodyCross
+101-CoreanoPortugues
+
+AstralHeroes = Remover
+AstralMasters = Remover
+AstralTournament = Remover
+AstralTowers = Remover
+
+101 a 120
+101-AncientMagic = OK 01
+102-Anki = OK 02
+103-Meu site = 
+104-Dicas = OK 03
+105-EiyuSenkiGold
+106-Eletrônica 2x
+107-Elsword 2x
+108-ENEM
+109-Estudos 2x = OK 04
+110-Extensões 2x = OK 05
+111-FilmesSeriesAnimes 2x
+112-Física 2x
+113-Flyff 2x
+114-FutureCardBuddyfight 2x
+115-GameBoy = Não achei 06
+116-GameDevTycoon 2x = não achei 07
+117-GengisKhan
+118-GitGihub 2x
+119-Go 2x
+120-Granbo 2x
+
+AlemaoPortugues = OK_50 Foi 
+Algoritmo = OK 39 Foi 
+Ancestors = OK 21 Foi 
+Angelique = OK_61 Foi 
+Angular = OK 22 Foi 
+Animes = OK 40 Foi 
+AsdaStory = OK_51 Foi 
+Assembly = OK_49 Foi 
+Assembly6502 = OK_63 Foi 
+AstralHeroes =  LetraA (Remover)
+AstralMasters =  LetraA (Remover)
+AstralTournament =  LetraA (Remover)
+AstralTowers =  LetraA (Remover)
+Atalhos = OK_62 Foi 
+BasesNumericas = OK_45 Foi 
+Beecrowd = OK_48 Foi 
+Biologia = OK 41 Foi 
+BrainAge3Ds = OK_47 Foi 
+BuddyFight = OK 42 Foi 
+C = OK_64 Foi 
+C-Sharp = OK_65 Foi 
+CaptainTsubasa = OK_46 Foi 
+CardfightAnime = OK_52 Foi 
+CardfightCartas = OK_53 Foi 
+CardfightClan = OK 43 Foi 
+CardfightDeck = OK 44 Foi 
+CardfightJogos = OK_54 Foi 
+CardfightPersonagens = OK_55 Foi 
+CardfightVanguard = OK_56 Foi 
+Celular = OK_57 Foi
+CheatEngine = OK_66 Foi 
+Cibersegurança = OK_67
+CoreanoPortugues = OK_68
+Curiosidades = OK_58 Foi 
+CursoDeWord = OK_69 Foi 
+Cursos = OK_70 Foi 
+Damas = OK_71 Foi 
+Dandadan = OK_59 Foi 
+DeathNote = OK_72 Foi 
+DemonSlayer = OK_73 Foi 
+Diablo3 = OK_74 Foi 
+Doramas = OK_75 Foi 
+Driver2 = OK_76 Foi 
+DualMasters = OK_77 Foi 
+DungeonDefenders = OK_78 Foi 
+Duolingo = OK_79 Foi 
+EatVenture = Ok_80 Foi 
+ElsZero = OK 23 Foi 
+FinalFantasy = OK 24 Foi 
+ForgeOfEmpires = OK 11 Foi 
+Gameboy = LetraG (Remover)
+GameBoyAdvance = LetraG (Remover)
+GameBoyColor = LetraG (Remover)
+GameDevTycoon = LetraG (Remover)
+GameGear = OK 25 Foi 
+GameOfThrones = OK 12 Foi 
+GranChaseMobile = OK 26 Foi 
+GranTurismo = OK 13 Foi 
+GranTurismo4 = Ok 27 Foi 
+Hearthstone = OK 28 Foi 
+HexManiaAdvance = OK 14 Foi 
+HTML = OK 15 Foi 
+HyperDimensionNeptunia = OK 16 Foi 
+InteligênciaArtificial = OK 17 Foi 
+Java = OK 18 Foi 
+Jogos = OK 29 Foi 
+LegendsOfRuneterra = 
+LiarGame = OK 19 Foi 
+Linguagens = LetraL (Remover)
+Livros = LetraL (Remover)
+LivroJogo = OK 06 Foi 
+Lua = 
+Luna = OK 20 LetraL (Remover)
+Lunia = LetraL (Remover)
+Magic = LetraM (Remover)
+MapleStory3Ds = LetraM (Remover)
+MasterSystem = OK 01 Foi 
+Medabots = OK 30 Foi 
+Memes = Remover
+Mickey = OK 31 Foi 
+Minecraft = LetraM (Remover)
+MonsterRancher = Ok 02 Foi 
+Mythoria = OK 03 Foi 
+NaipesFascinante = LetraN (Remover)
+NationEmpire = LetraN (Remover)
+NeoGeo = LetraN (Remover)
+Nintendo3Ds = LetraN (Remover)
+PachiPara = LetraP (Remover)
+Pangya = LetraP (Remover)
+Photoshop = LetraP (Remover)
+PlayStation3 = OK 31 Foi 
+PokemonMoon = OK 32 Foi 
+RecettearAnItemShopsTale = OK 04 Foi 
+SailorMoon = LetraS (Remover)
+SaiyukiJourneyWes = LetraS (Remover)
+Saki = OK 07 Foi 
+Saw = LetraS (Remover)
+Skyrim = OK 08 Foi 
+Sokoban = OK 05 Foi 
+SpiritOfWonder = OK 09 Foi 
+SuperCampeoes = OK 10 Foi 
+SuperMarioKart = OK 36 Foi 
+Terraria3Ds = OK 38 Foi 
+YGO_Deck = LetraY (Remover)
+YGO_Desafio = LetraY (Remover)
+YGO_DuelLinks = LetraY (Remover)
+YGO_WC2006 = OK_60 Foi 
+YGO_WC2010 = OK 33 Foi 
+YGO_WC2011 = OK 34 Foi 
+YGO_YGOPro = OK 35 Foi 
+YoukaiWatch = OK 37 Foi 
+
+Quantidade = 268 
+Quantidade por página = 30
+Ou seja = 9 páginas ( 270 ) 
+
 01-Aerobitz = Junho2025
--AICarrinho = Nao irei mexer com C
 02-AlchemicDungeon3Ds = Junho2025
 03-AlemaoPortugues : Maio2025 > Outubro2025
 04-Algoritmo = Abril2025 > Outubro2025
@@ -35,8 +267,6 @@ A
 20-Atalhos = Outubro2025
 21-Atari2600 = Junho2025
 22-AtariLyn = Junho2025
-
-B
 23-BangDream = Março2025
 24-BasesNumericas = Maio2025
 25-Beecrowd = Maio2025 > Outubro2025
@@ -45,58 +275,71 @@ B
 28-BrainAge3Ds = Maio2025 > Outubro2025
 29-Brasfoot : Maio2025
 30-Breath of Fire = Maio2025 > 
+
 31-BuddyFight = Outubro2025
-
-C
 32-C = Outubro2025 
-34-C-PlusPlus = Junho2025
-35-C-Sharp = Outubro2025
-36-CaptainTsubasa = Outubro2025
-37-CardfightAnime = Maio2025 > Novembro2025
-38-CardfightCartas = Março2025 > Novembro2025
-39-CardfightClan = 
+33-C-PlusPlus = Junho2025
+34-C-Sharp = Outubro2025
+35-CaptainTsubasa = Outubro2025
+36-CardfightAnime = Maio2025 > Novembro2025
+37-CardfightCartas = Março2025 > Novembro2025
+38-CardfightClan = 
+39-CardfightDeck = 
 40-CardfightJogos = Novembro2025
-41-CardfightVanguard = Novembro2025
-42-CardGuardian = 
-43-CarmenSanDiego
-44-Carros =
-45-Casa = 
-46-Celular = Novembro2025
-47-Cheat Engine = OK
-48-ChinesPortugues = 
-49-Cibersegurança = 
-50-CodyCross = 
-51-CoreanoPortugues = 
-52-Curiosidades = Novembro2025
-53-CursoDeWord = 
-54-Cursos = OK
+41-CardfightPersonagens = 
+42-CardfightVanguard = Novembro2025
+43-CardGuardian = 
+44-CarmenSanDiego
+45-Carros =
+46-Casa = 
+47-Celular = Novembro2025
+48-Cheat Engine = OK
+49-ChinesPortugues = 
+50-Cibersegurança = 
+51-CodyCross = 
+52-Compra-Com-Composição = 
+53-CoreanoPortugues = 
+54-Curiosidades = Novembro2025
+55-CursoDeWord = 
+56-CursoEmVideo =
+57-CursoEmVideoHTML =
+58-Cursos = OK
+59-Damas = OK
+60-Dandadan = Novembro2025
 
-D
-55-Damas = OK
-56-Dandadan = Novembro2025
--Diablo 3 = OK
--Driver 2 = 
--DungeonDefenders = OK
+61-danzinho007
+62-danzinho007github
+63-DeathNote
+64-DemonSlayer 
+65-desktopTutorial
+66-Diablo 3 = OK
+67-Doramas = 
+68-Driver 2 = 
+69-DualMasters = 
+70-DungeonDefenders = OK
+71-Duolingo =
+72-EatVenture =
+73-EiyuSenkiGold = OK
+74-Eletrônica =
+75-Elsword = OK
+76-ElsZero : OK 
+77-ENEM =
+78-Estudos =
+79-Extensões = 
+80-FilmesSeriesAnimes = 
+81-Final Fantasy = 
+82-Física = 
+83-Flyff = 
+84-ForgeOfEmpires = 
+85-FutureCardBuddyfight = 
+86-GameBoy = 
+87-GameBoyAdvance = 
+88-GameBoyColor = 
+89-GameDevTycoon = OK
+90-GameGear = 
 
-E
--EiyuSenkiGold = OK
--Elsword = OK
--ElsZero : OK 
--EstadosBrasileiros = Remover
--Estudos : OK
+91-GameOfThrones = 
 
-F
--Final Fantasy = 
--Flyff = OK
--ForgeOfEmpires = 
-
-G
--GameBoy = 
--GameBoyAdvance = 
--GameBoyColor = 
--GameDevTycoon = OK
--GameGear = 
--GameOfThrones = 
 -Git-Github = OK
 -GO = OK
 -Godscript1 = 29/03/2024 > ???
@@ -105,45 +348,34 @@ G
 -GrandChase = OK
 -GrandChaseMobile = 
 -GranTurismo4 = 
-
-H
 -HackRom = OK
 -Hearthstone = 
 -HorizonChaseTurbo = OK
-
-I
 -IA = OK
 -Ingles-Portuges = OK
 -Investimento = 11/09/2024 > ???
-
-J
 -Java = Parei pra focar nos estudos
 -Japones-Portugues : Falta = Att
 -JavaScript = OK
 -JogoDaVelha = OK
+120-KingdomTwoCrowns =
+
+121-LegendsOfRuneterra = 
 -Lua = OK
-
-L
 -Livros = OK
-
-M
 -Magic = OK
 -Mahjong : OK
 -Markdown = OK
 -MonsterRancher = OK
 https://vk.com/board74288131
 -MySQL = OK
+150-NationEmpire = 
 
-N
--NationEmpire = 
+151-NeoGeo = 
 -Nintendo64 = 
 -NintendoDS = 
 -NobunagaAmbition = OK
-
-O
 -OmegaQuintet = OK
-
-P
 -PachiPara = 26/02/2024 > ???
 -Pangya = OK 
 -Photoshop = 29/03/2024 > ???
@@ -154,36 +386,39 @@ P
 -PokemonHackrom = OK
 -PokemonMysteryDungeon = OK
 -PokemonRumbleBlast = 28/02/2024 > 
--PokemonRumbleWord = 18/02/2024 >
+180-PokemonRumbleWord = 18/02/2024 >
+
+181-Populos = 
 -PokemonTCG = 
 -ProjectDiva = OK
 -Python = OK
-
-R
 -Rage Racer = OK
 -RecettearAnItemShopsTale = OK
 -Revistas = 10/04/2024 > ???
 -RPG-Maker : OK
-
-S
 -Scratch = Parei pra focar nos estudos
 -SidePocket = OK
 -site = OK
+210-Skyrim
+
+211-SNES = 
 -Spectromancer = 
 -SuperMarioKart = 14/12/2024 > 31/10/2025
 -SuperNintendo
-
-T
 -TaikoNoTatsujin = OK
 -Terraria = 20/03/2024 > ???
 -Terraria3Ds = 20/03/2024 > 31/10/2025
 -TerrariaPC = OK
 -Torchlight = OK
+240-WilTDA =
 
-X
+241-WinningEleven =
 -Xadrez : OK
 -YGOPRO : OK
 -YoukaiWatch = 10/05/2024 > 31/10/2025
 -YuGiOh = 
 -YuGiOhTagForce = 
 -YuGiOHForbiddenMemories = OK
+268-Yu-Gi-Oh
+269-
+270-
