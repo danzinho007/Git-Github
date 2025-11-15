@@ -73,61 +73,59 @@ Stella View
 YGO 2006
 
 Atualizar:
-Dia 09/11/2025 = 20 pastasAtualizadas
-... 10/11/2025 = 21 até 40 ...
-... 11/11/2025 = 41 até 60 ...
+Dia 09/11/2025 Domingo = 20 pastasAtualizadas
+... 10/11/2025 Segunda-Feira = 21 até 40 ...
+... 11/11/2025 Terça-Feira = 41 até 60 ...
 ... 12/11/2025 Quarta-Feira = 61 ao 80 ...
 ... 13/11/2025 Quinta-Feira = 81 ao 100
 ... 14/11/2025 Sexta-Feira = 101 ao 120
-
-81Aerobitz = OK
-82-AlchemicDungeon3Ds = OK
-83-AncientMagic = OK
-84-ArabePortugues = OK
-85-ArabianNights = OK
-86-Atari2600 = OK
-87-AtariLyn = OK
-88-BangDream = OK
-89-Blackthorne = OK
-90-Brasfoot = OK
-91-BreathOfFire = OK
-92-C-PlusPlus = OK
-93-CaixaEconomica = OK
-94-CardGuardians = OK
-95-CarmenSanDiego = OK
-96-Carros = OK
-97-Casa 
-98-ChinesPortugues
-99-Cibersegurança
-100-CodyCross
-101-CoreanoPortugues
+... 15/11/2025 Sábado = tudo
 
 AstralHeroes = Remover
 AstralMasters = Remover
 AstralTournament = Remover
 AstralTowers = Remover
 
-101 a 120
-101-AncientMagic = OK 01
-102-Anki = OK 02
-103-Meu site = 
-104-Dicas = OK 03
-105-EiyuSenkiGold
-106-Eletrônica 2x
-107-Elsword 2x
-108-ENEM
-109-Estudos 2x = OK 04
-110-Extensões 2x = OK 05
-111-FilmesSeriesAnimes 2x
-112-Física 2x
-113-Flyff 2x
-114-FutureCardBuddyfight 2x
-115-GameBoy = Não achei 06
-116-GameDevTycoon 2x = não achei 07
-117-GengisKhan
-118-GitGihub 2x
-119-Go 2x
-120-Granbo 2x
+Mudanças
+Aerobitz = SuperNintendo
+Elsword = JogosOnline
+Flyff = JogosOnline
+GO = Programacao
+GrandChase = JogosOnline
+GranTurismo = LetraP > PlayStation1
+GranTurismo4 = LetraP > PlayStation2
+
+15/11 Sábado 
+
+GameBoy = Sumiu ?
+GameDevTycoon = Sumiu ?
+GameOfThrones = atualizar 01
+GranTurismo = OK 
+HexManiaAdvance = atualizar 02
+HTML = OK
+HyperDimensionNeptunia = atualizar 01
+InteligênciaArtificial = atualizar 02
+Java = OK
+Letra M = OK 
+Letra P = OK
+Letra S = Atualizar
+Letra Y = OK
+Linguagens = ?
+Livros = ?
+Luna = ?
+Lunia = ?
+Mahjong = OK
+MapleStory = Atualizar 01
+Markdown = atualizar 02
+MarketingDigital = 
+MasterSystem = 
+Matemática = 
+MegaDrive = 
+MegamanX = 
+MonsterRancher = 
+Música = OK
+MySQL = 
+Mythoria = OK
 
 AlemaoPortugues = OK_50 Foi 
 Algoritmo = OK 39 Foi 
