@@ -85,6 +85,16 @@ AstralHeroes = Remover
 AstralMasters = Remover
 AstralTournament = Remover
 AstralTowers = Remover
+Elsword = Remover 01
+FilmesSeriesAnimes = Remover 02
+LegendsOfRuneterra = Remover 03
+
+RecettearAnItemShopsTale = Remover
+Saki = Remover
+SuperNintendo = Falta 01
+YGO-YGOPRO = Falta 02
+Programacao
+PlayStation = 
 
 Mudanças
 Aerobitz = SuperNintendo
