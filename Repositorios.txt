@@ -1,37 +1,23 @@
+Atualizar :
+Animes
+Anki
+BuddyFight
+CheatEngine
+Cibersegurança
+CodyCross
+DungeonDefenders
+Duolingo
+EditoresJogos
+ENEM
+ForgeOfEmpires
+
 Jogar 
-PS1 - Angelique = OK
-PS1 - Driver 2 = OK
-SNES - Aerobitz = OK
-SNES - AncientMagic = OK Pesquisar
-SNES - ArabianNights = Ok Pesquisar
-SNES - Blackthorne = OK Pesquisar
-SNES - BreathOfFire = OK Pesquisar
-CardGuardians = OK
-CodyCross = ?
-DualMasters = Ok
-DungeonDefenders = Ok
-EatVenture = Ok
+
 
 Estudar 
-ArabePortugues = Ok
-Assembly6502 = OK
-C = Ok
-C++ = OK
-C-Sharp = Dia 13
-Carros = OK
-CheatEngine = Ok
-97-ChinesPortugues = Ok
-98-Cibersegurança
-99-CodyCross
-100-CoreanoPortugues = OK
-CursoDeWord
-Duolingo
 
 Pesquisar
-BangDream = OK
-Brasfoot = ?
-CaixaEconomica = ?
-Casa = ?
+
 
 Ver Vídeo
 Atari2600 = ?
@@ -81,29 +67,64 @@ Dia 09/11/2025 Domingo = 20 pastasAtualizadas
 ... 14/11/2025 Sexta-Feira = 101 ao 120
 ... 15/11/2025 Sábado = tudo
 
-AstralHeroes = Remover
-AstralMasters = Remover
-AstralTournament = Remover
-AstralTowers = Remover
-Elsword = Remover 01
-FilmesSeriesAnimes = Remover 02
-LegendsOfRuneterra = Remover 03
+Mover 
+1-Atari2600 = Remover
+2-AtariLyn = Remover
+1-BangDream = Mover pra Animes
+2-
+1-CardfightAnime = Mover pra CardfightVanguard (Remover)
+2-CardfightCartas = ... (Remover)
+3-CardfightClan = ... (Remover)
+4-CardfightDeck = ... (Remover)
+5-CardfightJogos = ... (Remover)
+6-CardfightPersonagens = ... (Remover)
+7-
+1-BasesNumericas = Mover pra Cursos
+1-Brasfoot = Mover pra LetraB
+2-GameBoy = Mover pra LetraB
+1-CaixaEconomica = Mover pra LetraC
+2-CaptainTsubasa = Mover pra LetraC 
+3-CardGuardians = Mover pra LetraC
+1-Baseball = Mover pra LetraB (OK)
+2-Brasfoot = Mover pra LetraB (OK)
+3-BuddyFight = Mover pra LetraB
+4-
+1-CaixaEconomica = Mover pra LetraC (OK)
+2-CaptainTsubasa = Mover pra LetraC (OK)
+3-
+4-
+1-AlchemicDungeon3Ds = Mover pra Nintendo3Ds (Remover)
+2-BrainAge3Ds = Mover pra Nintendo3Ds (Remover)
+1-Ancestors = Mover pra PlayStation
+2-
+1-Algoritmo = Mover pra Programacao (OK) (OK)
+2-Assembly6502 = Remover
+2-C-PlusPlus = Remover
+3-C-Sharp = Remover
+4-
+1-ArabianNights = Mover pra SuperNintendo(Remover)
+2-Blackthorne = Mover pra SuperNintendo (Remover)
+3-BreathOfFire = Mover pra SuperNintendo 
+4-
 
-RecettearAnItemShopsTale = Remover
-Saki = Remover
-SuperNintendo = Falta 01
-YGO-YGOPRO = Falta 02
-Programacao
-PlayStation = 
+Atualizar:
+1-Animes (OK)
+2-Anki (OK)
+3-Beecrowd (OK)
+4-BuddyFight (OK)
+4-EditoresJogos (Falta)
+5-ENEM (Falta)
+6-Estudos(Falta)
+7-
 
-Mudanças
-Aerobitz = SuperNintendo
-Elsword = JogosOnline
-Flyff = JogosOnline
-GO = Programacao
-GrandChase = JogosOnline
-GranTurismo = LetraP > PlayStation1
-GranTurismo4 = LetraP > PlayStation2
+AtualizarAgora
+1-CheatEngine
+2-Cibersegurança
+3-CodyCross 
+4-Curiosidades
+5-CursoDeWord
+6-Damas
+7-
 
 15/11 Sábado 
 
