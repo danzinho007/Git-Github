@@ -1,15 +1,22 @@
 Atualizar :
-Animes
-Anki
-BuddyFight
-CheatEngine
-Cibersegurança
-CodyCross
+Algoritmo = OK
+Animes = OK
+Anki = OK
+Beecrowd = OK
+BuddyFight = Ok
+Cursos = OK
+danzinho007github = OK_03   
 DungeonDefenders
 Duolingo
 EditoresJogos
+Estudos = OK_04
 ENEM
 ForgeOfEmpires
+GameBoy = Remover
+GameDevTycoon = Remover
+GameGear = Remover
+GameOfThrones = Remover
+Idiomas
 
 Jogar 
 
